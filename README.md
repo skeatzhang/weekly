@@ -4,13 +4,17 @@
 
 欢迎投稿文章/软件/资源，请[提交 issue](https://github.com/ruanyf/weekly/issues) 。
 
-> P.S. 讨论区的[《谁在招人》](https://github.com/ruanyf/weekly/issues/10950)，是一个免费的程序员招聘帖，提供大量就业信息，欢迎发布工作/实习岗位。
+> P.S. 讨论区的[《谁在招人》](https://github.com/ruanyf/weekly/issues/11434)，是一个免费的程序员招聘帖，提供大量就业信息，欢迎发布工作/实习岗位。
 
 ## 2026
 
+**九月**
+
+- 第 411 期：[OpenClaw 2.0 是一个缩影](docs/issue-411.md)
+
 **八月**
 
-- 第 410 期：[程序员的职业未来](docs/issue-410.md)
+- 第 410 期：[你需要知道的 AI 三种机制](docs/issue-410.md)
 - 第 409 期：[程序员的职业未来](docs/issue-409.md)
 - 第 408 期：[你需要知道的 AI 缓存知识](docs/issue-408.md)
 - 第 407 期：[国家为什么需要开源软件？](docs/issue-407.md)
